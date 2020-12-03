@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729826813124",
+    "firebase_url": "https://moob-1d873.firebaseio.com",
+    "project_id": "moob-1d873",
+    "storage_bucket": "moob-1d873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729826813124:android:e62b8f1c79dd14e1a4d591",
+        "android_client_info": {
+          "package_name": "com.example.mymobaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729826813124-p4297gme0jg6vdts2hs4oc0vbo77escg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpwN9m_4fwlR50ZEacvMJe9PjNg610Yfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729826813124-p4297gme0jg6vdts2hs4oc0vbo77escg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
